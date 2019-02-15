@@ -15,9 +15,9 @@ body {
 
 .gist-file {
   border: none !important;
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 
 .gist-data {
-  padding: 10px 10px 40px;
+  padding: 30px 10px 30px;
 }
