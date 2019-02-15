@@ -1,0 +1,13 @@
+{
+  "name": "qihl-readme-files",
+  "version": "1.0.0",
+  "description": "Files for Liquid.qihl readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liquidqihl/readme-files.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liquidqihl/readme-files/issues"
+  },
+  "homepage": "https://github.com/liquidqihl/readme-files"
+}
